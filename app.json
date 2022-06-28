@@ -4,10 +4,7 @@
   "repository": "https://github.com/stripe/example-mobile-backend",
   "keywords": ["ios", "stripe"],
   "env": {
-    "STRIPE_TEST_SECRET_KEY": {
-      "description": "Find this at https://dashboard.stripe.com/account/apikeys (it'll look like sk_test_****)",
-      "required": true
-    }
+    "STRIPE_TEST_SECRET_KEY":"sk_test_51KNzxMAUkgayiplWUxXXvdqqHbzkTZ8ZBlCCmdHG1zKzaNxwyzB6mnsO8an8Fvu9MEAW3PUWlfTL4qE1ul544c7s00xB5ZOSoi"
   },
   "stack": "heroku-20"
 }
